@@ -1,5 +1,7 @@
 # Performance
 
+![banner](https://github.com/pierard/performance/blob/main/media/banner.png?raw=true)
+
 This repository is curently based on the following three papers.
 
 [Sébastien Piérard, Anaïs Halin, Anthony Cioppa, Adrien Deliège, and Marc Van Droogenbroeck, “Foundations of the theory of performance-based ranking,” in IEEE/CVF Conf. Comput. Vis. Pattern Recognit.
