@@ -14,3 +14,7 @@ This repository is curently based on the following papers.
 [Sébastien Piérard, Adrien Deliège, Anaïs Halin, and Marc Van Droogenbroeck. "A methodology to evaluate strategies predicting rankings on unseen domains." In IEEE International Conference on Multimedia and Expo Workshops (ICMEW), Workshop on Big Surveillance Data Analysis and Processing (BIG-Surv), Nantes, France, June-July 2025.](https://arxiv.org/pdf/2505.15595)
 
 The code provided here is the report generator that comes with our hitchhiker’s guide.
+
+Slides covering the three first publications are available on [ORBi](https://hdl.handle.net/2268/332758).
+
+Our CVPR poster is [here](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/33103.png).
